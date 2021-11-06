@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bird/assets"
+		},
+		{
+			"path": "../bird/sound"
+		}
+	],
+	"settings": {}
+}
